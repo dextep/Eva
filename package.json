@@ -1,0 +1,26 @@
+{
+  "name": "eva",
+  "version": "1.0.0",
+  "description": "Strona salonu fryzjerskiego Eva",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
+  },
+  "keywords": [
+    "haircut",
+    "hair salon",
+    "hair salon near me",
+    "haircut near me",
+    "cost cutters",
+    "supercuts near me",
+    "kids haircuts",
+    "fryzjer czaniec",
+    "fryzjer"
+  ],
+  "author": "Grzegorz",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
