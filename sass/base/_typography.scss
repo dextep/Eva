@@ -5,17 +5,17 @@ body {
   font-weight: 400;
   color: $color-grey-dark;
   font-size: 16px;
-  padding: 0.7rem;
 }
 
 .heading-primary {
+  font-weight: 800;
   color: $color-white;
   background-color: rgba(0, 0, 0, 0.3);
   text-transform: uppercase;
 
   backface-visibility: hidden;
-  text-shadow: 0 0 3rem rgb(0, 0, 0);
-  padding: 2rem 10% 2rem 10%;
+  text-shadow: 0 0 3rem rgba(0, 0, 0, 0.3);
+  padding: 3rem 5% 3rem 5%;
 
   &--main {
     display: block;

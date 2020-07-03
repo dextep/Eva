@@ -1,4 +1,6 @@
 //COLORS
+$color-skin: rgb(255, 229, 180);
+
 $color-primary: #33e06c;
 $color-primary-light: #7ed56f;
 $color-primary-dark: #28b485;
@@ -8,12 +10,12 @@ $color-brown-light: #E06C07;
 
 $color-white: #ffffff;
 $color-black: #000;
-$color-grey-dark: #777777;
 
-$color-grey-light-1: #f7f7f7;
+$color-grey: #c6c6c6;
+$color-grey-dark: #2a2a2a;
 
 // GRID
-$grid-width: 110rem;
+$grid-width: 120rem;
 $gutter-vertical: 5rem;
 $gutter-horizontal: 7rem;
 
